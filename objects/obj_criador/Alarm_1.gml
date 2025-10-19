@@ -1,0 +1,1 @@
+instance_create_layer(x, y, "Flash", obj_derrota)
