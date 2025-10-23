@@ -6,7 +6,8 @@ Este repositório armazena os códigos de uma recriação do Flappy Bird criado 
 A seguir, uma demonstração visual do projeto:
 
 <img width="176" height="325" alt="image" src="https://github.com/user-attachments/assets/63a079d1-1ec6-4363-af90-6d4355c842b7" />
-<img width="180" height="324" alt="image" src="https://github.com/user-attachments/assets/a2d2488f-fac8-4c60-95fe-97a17d80aa04" />
+<img width="182" height="318" alt="image" src="https://github.com/user-attachments/assets/4ab675ae-c173-4780-9f93-56df102ac2bf" />
+
 
 
 
