@@ -2,7 +2,7 @@
 
 [![GameMaker](https://img.shields.io/badge/GameMaker_Studio_2-000000?style=for-the-badge&logo=gamemaker&logoColor=white)](https://gamemaker.io/)
 [![GML](https://img.shields.io/badge/GML-GameMaker_Language-green?style=for-the-badge)]()
-[![Play Now](https://img.shields.io/badge/Play_Now-Online-success?style=for-the-badge)](https://gx.games/games/iiwsj4/flappy-bird-recriacao/)
+[![Play Now](https://img.shields.io/badge/Play_Now-Online-success?style=for-the-badge)](https://gx.games/pt-br/games/iiwsj4/flappy-bird-recriacao/tracks/0ad90754-14e2-46f4-9a70-17e31d36f930/)
 [![Status](https://img.shields.io/badge/Status-Jogável-brightgreen?style=for-the-badge)]()
 
 > **Recriação fiel do clássico Flappy Bird desenvolvida em GameMaker Studio 2**  
