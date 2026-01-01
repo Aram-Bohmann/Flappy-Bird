@@ -77,7 +77,6 @@ Guie o pássaro através dos canos sem colidir, acumulando pontos a cada obstác
 **Destaques:**
 - ✅ Canos procedurais
 - ✅ Score visível no topo
-- ✅ Parallax scrolling no fundo
 - ✅ Física realista
 
 ---
